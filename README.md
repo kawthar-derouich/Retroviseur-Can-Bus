@@ -2,7 +2,8 @@
 
 Projet de fin d'études (BTS Systèmes Électroniques) : une interface **bus CAN** pour commander à distance les rétroviseurs électriques d'une voiture, à l'aide de deux cartes Arduino Uno et de modules MCP2515.
 
-> 🎓 Lycée technique de Fès, filière Systèmes Électroniques, 2024
+<img width="679" height="568" alt="image" src="https://github.com/user-attachments/assets/7b1380b6-9fa6-43df-85c8-74460f665cc4" />
+
 
 ## Principe
 
